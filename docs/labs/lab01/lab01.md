@@ -78,7 +78,7 @@ r3dh4t1!
 1. Create a brand new API by completing the following information:
 
     * Type: **Open API 3.0.1**
-    * Name: **Locations-UserX** (Replace *X* with your user number)
+    * Name: **Locations UserX** (Replace *X* with your user number)
     * Description: **Locations API**
 
     ![design-create-api](images/design-04.png "Create API")
